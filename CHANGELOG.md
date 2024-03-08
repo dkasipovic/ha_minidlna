@@ -15,3 +15,6 @@
 ## 0.4
 
 - Fix config file for devices
+
+## 0.5
+- Allow changing the friendly name

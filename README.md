@@ -12,6 +12,7 @@ Copy the url of this addon into "Supervisor" -> "Addon Store" -> "Add New reposi
 ```yaml
 media_dir: V,/media;/share
 options: -d
+friendly_name: Home Assistant DLNA
 ```
 
 ### Option `media_dir`

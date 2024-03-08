@@ -21,6 +21,7 @@
     "init": false,	
     "options": {
       "media_dir": "/media;/share",
+      "friendly_name": "Home Assistant DLNA",
 	  "options": "-d"
     },
     "schema": {
